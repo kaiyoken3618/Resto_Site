@@ -1,0 +1,10 @@
+{
+  "restaurants": [
+    {
+      "name": "radisson123",
+      "address": "sea road",
+      "email": "12356radisson@gmail.com",
+      "id": 6
+    }
+  ]
+}
